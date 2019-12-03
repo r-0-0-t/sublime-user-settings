@@ -8,12 +8,9 @@
 
 ### Fix Package Dependencies:
 
-```bash
-sudo npm install --global prettier
-```
-
-```bash
-sudo gem install rufo
+```console
+$ sudo npm install --global prettier
+$ sudo gem install rufo
 ```
 
 ### Tweaks for Operator Mono:
