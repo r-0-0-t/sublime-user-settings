@@ -4,7 +4,7 @@
 
 ### Font not included in here but installed in system -
 
-> Operator Mono
+`Operator Mono`
 
 ### Fix Package Dependencies:
 
@@ -15,10 +15,10 @@ $ sudo gem install rufo
 
 ### Tweaks for Operator Mono:
 
-> Open **_Material Theme_** with **_Resource Viewer_** [CTRL + Shift + P > Resource Viewer > Open Resource > Material Theme].
-> Then open **_schemes>YOUR_CURRENT_THEME.mTheme_**.
+Open **_Material Theme_** with **_Resource Viewer_** [CTRL + Shift + P > Resource Viewer > Open Resource > Material Theme].
+Then open **_schemes>YOUR_CURRENT_THEME.mTheme_**.
 
-> Add this few lines
+Add this few lines
 
 ```html
 <!--  Operator Tweaks -->
