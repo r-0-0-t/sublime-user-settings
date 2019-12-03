@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Color Highlighter",
+		"CSS3",
+		"Handlebars",
+		"JsPrettier",
+		"LoremIpsum",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rails Completions",
+		"SyncedSideBar",
+		"Terminal"
+	],
+	"repositories":
+	[
+		"https://github.com/ruby-formatter/sublime-rufo",
+		"https://github.com/ruby-formatter/sublime-rufo"
+	]
+}
